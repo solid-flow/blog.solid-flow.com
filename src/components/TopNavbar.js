@@ -18,6 +18,7 @@ class TopNavbar extends React.Component {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <Link
+                exact
                 to="/"
                 className="nav-link px-3"
                 activeClassName="nav-link-active"

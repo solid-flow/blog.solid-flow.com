@@ -3,6 +3,7 @@ title: New Beginnings
 tags: ["animals", "Chicago", "zoos"]
 date: "2015-05-28T22:40:32.169Z"
 summary: "This is my first blog post where I will tell you a bit about myself"
+published: true
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia

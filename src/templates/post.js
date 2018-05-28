@@ -3,8 +3,8 @@ import Helmet from 'react-helmet';
 import Link from 'gatsby-link';
 import get from 'lodash/get';
 
-import './blog-post.css';
-
+import './post.css';
+import Tags from '../components/Tags';
 import Bio from '../components/Bio';
 
 class BlogPostTemplate extends React.Component {
@@ -19,7 +19,7 @@ class BlogPostTemplate extends React.Component {
         <h1 className="blog-post-title">{post.frontmatter.title}</h1>
         <hr className="my-2"/>
         <div className="d-flex justify-content-between my-2">
-          <div className="h5">{post.frontmatter.tags.join(', ')}</div>
+          <Tags tags={post.frontmatter.tags}/>
           <div className="h5">{post.frontmatter.date}</div>
         </div>
         <div className="blog-post-summary h5">{post.frontmatter.summary}</div>
@@ -43,9 +43,6 @@ class BlogPostTemplate extends React.Component {
           )}
         </div>
       </div>
-
-
-
 
     )
   }
@@ -72,4 +69,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

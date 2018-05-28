@@ -19,7 +19,7 @@ class Bio extends React.Component {
           <p>Software Developer: Angular, React, NodeJS // open-source, web, mobile // women in tech</p>
 
           <p>
-            Follow me on <a href="https://twitter.com/solid_flow_com">Twitter</a>!
+            Follow me on <a href="https://twitter.com/solid_flow_com">Twitter</a>
           </p>
         </div>
       </div>

@@ -23,7 +23,6 @@ class SideNavbar extends React.Component {
             </li>
             <li className="nav-item">
               <Link
-                exact
                 to="/tags"
                 className="nav-link px-3"
                 activeClassName="nav-link-active"
@@ -33,7 +32,6 @@ class SideNavbar extends React.Component {
             </li>
             <li className="nav-item">
               <Link
-                exact
                 to="/about"
                 className="nav-link px-3"
                 activeClassName="nav-link-active"
