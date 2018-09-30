@@ -1,2 +1,0 @@
-webpackJsonp([0xca2657eb1b11],{402:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/2015-05-28-hi-folks/"},frontmatter:{date:"28 May, 2015",title:"New Beginnings"}}},{node:{fields:{slug:"/2015-05-01-hello-world/"},frontmatter:{date:"01 May, 2015",title:"Hello World"}}}]}},pathContext:{tag:"animals"}}}});
-//# sourceMappingURL=path---tags-animals-c1e5020b534ba80d6299.js.map

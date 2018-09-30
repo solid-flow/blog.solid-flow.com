@@ -1,2 +1,0 @@
-webpackJsonp([0x9470b7d715f4],{404:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:2,edges:[{node:{fields:{slug:"/2015-05-28-hi-folks/"},frontmatter:{date:"28 May, 2015",title:"New Beginnings"}}},{node:{fields:{slug:"/2015-05-01-hello-world/"},frontmatter:{date:"01 May, 2015",title:"Hello World"}}}]}},pathContext:{tag:"zoos"}}}});
-//# sourceMappingURL=path---tags-zoos-641ebf451559a158f346.js.map
